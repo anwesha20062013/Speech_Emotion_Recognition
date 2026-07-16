@@ -1,0 +1,10 @@
+tensorflow-macos
+tensorflow-metal
+streamlit
+librosa
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+soundfile
